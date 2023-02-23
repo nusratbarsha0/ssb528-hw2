@@ -1,0 +1,41 @@
+h3{
+	font-size: 30px;
+
+}
+.head1{
+	
+	font-size: 50px; 
+}
+.border{
+	border: 10px black solid;}
+
+#head2{
+	background-color: pink;
+} 
+para{
+	background-color: skyblue;
+
+}
+.para{
+	background-color: rgb(00,00,00);
+}
+
+#para{
+	background-color: palegreen;
+}
+
+.box{
+	height: 100px;
+	background-color: red;
+}
+h5{
+	font-size: 30px;
+	background-color: orchid;
+}
+.new4{
+	font-size: 60px;
+	background-color: lightpink;
+}
+.new5{
+	border: 2px solid tomato;
+}
